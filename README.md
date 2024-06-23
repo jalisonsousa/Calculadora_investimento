@@ -1,9 +1,3 @@
-### Como Funciona
-
-1. **HTML**: Estrutura básica do site, incluindo um formulário para entrada de dados.
-2. **CSS**: Estiliza a página para um design moderno e responsivo.
-3. **JavaScript**: Realiza o cálculo do investimento necessário.
-
 ### Explicação do Cálculo
 
 - **Quantidade Total**: A quantidade total de cotas será a quantidade atual mais uma.
